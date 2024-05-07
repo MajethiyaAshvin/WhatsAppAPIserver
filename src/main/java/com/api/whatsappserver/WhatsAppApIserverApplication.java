@@ -1,0 +1,13 @@
+package com.api.whatsappserver;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class WhatsAppApIserverApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(WhatsAppApIserverApplication.class, args);
+	}
+
+}
